@@ -1,0 +1,2 @@
+(this["webpackJsonponline-shop"]=this["webpackJsonponline-shop"]||[]).push([[0],[,,,function(n,e,t){n.exports=t(11)},,,,,function(n,e,t){},function(n,e,t){n.exports=t.p+"static/media/logo.5d5d9eef.svg"},function(n,e,t){},function(n,e,t){"use strict";t.r(e);var o=t(0),s=t.n(o),c=t(2),i=t.n(c);t(8),t(9),t(10);var a=function(){return s.a.createElement("div",{className:"App"})};i.a.render(s.a.createElement(a,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.d1e6b6d7.chunk.js.map
