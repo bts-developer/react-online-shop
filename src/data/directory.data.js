@@ -1,4 +1,4 @@
-const DIRECTORY_DATA = [
+const DIRECTORY_DATA = {sections: [
     {
       title: "hats",
       imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
@@ -31,6 +31,6 @@ const DIRECTORY_DATA = [
       id: 5,
       linkUrl: "shop/mens"
     }
-  ];
+  ]};
 
   export default DIRECTORY_DATA;
